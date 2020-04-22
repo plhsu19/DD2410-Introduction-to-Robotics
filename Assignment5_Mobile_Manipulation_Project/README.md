@@ -1,5 +1,6 @@
-# Robotics_intro
+## Disclaimer: This introduction README file was directly from the course DD2410's repository for this assignment (https://github.com/ignaciotb/robi_final_project.git)
 
+# Robotics_intro
 Packages for the final project of the course DD2410 "Introduction to Robotics".
 Project based on the PAL Robotics platform TIAGo.
 
